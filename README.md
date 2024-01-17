@@ -1,7 +1,7 @@
 # Cpp-Exercises
 
 ## About The Project
-This repository is a collection of small-scale C++ projects and exercises developed collaboratively at East Carolina University. Each project in this collection was created as part of a team effort with fellow students, focusing on fundamental C++ programming concepts. Currently, the repository contains the latest versions of each project completed in spring 2023. I am actively working to enhance their efficiency and functionality, ensuring alignment with modern C/C++ coding standards and best practices. 
+This repository is a collection of small-scale C++ projects and exercises developed collaboratively at East Carolina University. Each project in this collection was created as part of a team effort with fellow students, focusing on fundamental C++ programming concepts. Currently, the repository contains the latest versions of each project completed in spring 2023.
 
 ## Collaboration
 These projects were a collaborative effort among students at East Carolina University. Collaboration was key in enhancing the learning experience, providing insights into team-based software development.
